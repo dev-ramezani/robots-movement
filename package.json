@@ -1,0 +1,21 @@
+{
+  "name": "robots-movement",
+  "version": "1.0.0",
+  "description": "In this repo the game of robots is implemented, in such a way that the movements of the robot are read from a file and executed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/RMNProgrammer/robots-movement"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "game",
+    "movement of robots"
+  ],
+  "author": "Mohammad Amin Ramezani",
+  "license": "MIT"
+}
